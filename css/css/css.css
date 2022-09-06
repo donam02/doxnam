@@ -1,0 +1,143 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
+body{
+background: #ffffff;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.wrapper{
+width: 980px;
+margin: auto;
+}
+.logo{
+height: 100px;
+background: #ffffff;
+}
+.menu{
+height: 35px;
+background: #d21414;
+}
+.banner{
+height: 250px;
+}
+.content{
+height: 985px;
+background: #ffffff;
+}
+.footer{
+height: 50px;
+background: #f4f5f8;
+}
+.menu ul li{
+    list-style: none;
+    float:left;
+    line-height: 35px;
+    padding-left: 30px;
+}
+menu ul li a{
+    color: #ede2e2;
+    font-size: 25px;
+    text-decoration: none;
+}
+.text{
+    width: 200px;
+    height: 20px;
+    border: none;
+    background: #ffffff;
+    padding-left: 5px;
+    margin-top: 8px;
+
+}
+.timkiem{
+    width: 90px;
+    height: 20px;
+    background: #d21414;
+    border: 0.5px solid #ffffff;
+    color: #ffffff;
+
+}
+.banner img{
+    width: 60%;
+    height: 120%;
+}
+.td{
+    width: 980px;
+    height: 65px;
+    line-height: 140px;
+}
+.td p{
+    color: brown;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sp{
+    width: 215px;
+    height: 115px;
+    border: 0.5px solid #ede2e2;
+    text-align: center;
+    float: left;
+    margin-right: 15px;
+}
+.tensp a{
+    text-decoration: none;
+    color: #2a2828;
+    font-size: 18px;
+    font-weight: bold;
+}
+.tensp{
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.giagoc{
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-top: 20px;
+}
+.giamoi{
+    color: #d21414;
+    font-size: 25px;
+    font-size: bold;
+    margin-top: 15px;
+}
+.sp img{
+    width: 250px;
+    height: 250px;
+}
+.danhgia{
+    width: 250px;
+    height: 2px;
+    padding-top: 300px;
+    
+}
+.logo img{
+    width: 600px;
+    height: 100px;
+    padding: auto;
+  
+}
+.dt{
+    width: 980px;
+    height: 65px;
+    line-height: 100px;
+}
+.dt p{
+    color: brown;
+    font-size: 20px;
+    font-weight: bold;
+}
+.box{
+    width: 980px;
+    height: 415px;
+}
+.boc{
+    width: 980px;
+    height: 65px;
+    line-height: 440px;
+}
+.bic{
+    width: 980px;
+    height: 65px;
+    line-height: 50px;
+}
+
